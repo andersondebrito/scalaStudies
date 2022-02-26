@@ -1,18 +1,13 @@
 
 # Scalando
 
-Este repositório contém os exemplos completos do Livro _Scala: Como escalar sua
-produtividade_.
+This repository contains the complete examples from the Scala Book: How to scale your productivity.
 
-No diretório `src/main/resources` estão scripts que auxiliam na execução de alguns
-dos exemplos. Para executá-los, para ir até o diretório em questão e executar o
-script diretamente. Por exemplo, para executar o primeiro exemplo do capítulo 1 use
-os serguintes comandos:
+In the `src/main/resources` directory are scripts that help you run some of the examples. To run them, to go to the directory in question and run the script directly. For example, to run the first example of chapter 1 use the following commands:
 
 ```shell
 cd src/main/resources/cap01/
 ./foto-java.sh
 ```
 
-Caso o arquivo não possa ser executado, confira se o mesmo possui permissões de
-execução na sua máquina.
+If the file cannot be executed, check if it has permissions to running on your machine.
